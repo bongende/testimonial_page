@@ -61,7 +61,7 @@ grid-template-rows: repeat(2, 1fr);
 width: 70vw;
 height: 70%;
 min-height: 635px;
-margin: 10vh auto auto;
+margin: 5vh auto auto;
 gap: 2rem;
 }
 
@@ -165,6 +165,8 @@ color: var(--rich-black);
 padding: 2rem;
 font-size: 1rem;
 text-align: center;
+position: relative;
+bottom: 0;
 }
 
 .attribution a {
