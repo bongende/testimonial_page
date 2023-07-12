@@ -71,6 +71,7 @@ border-radius: 0.7rem;
 padding: 1.5rem;
 box-shadow: 0 0 2rem rgba(0, 0, 0, 0.4);
 position: relative;
+gap: 2rem;
 }
 
 .article > .profile {
@@ -106,7 +107,6 @@ font-weight: 500;
 
 .article > .content {
 width: 100%;
-margin-top: 1rem;
 z-index: 99;
 }
 
@@ -169,7 +169,7 @@ bottom: 2rem;
 color: hsl(227, 45%, 44%);
 }
 
-@media (max-width: 1160px) {
+@media (max-width: 1170px) {
 section.container {
 display: flex;
 flex-direction: column;
@@ -236,7 +236,6 @@ padding: 1.5rem;
 box-sizing: border-box;
 width: 100%;
 margin: 0;
-gap: 2rem;
 }
 
 .attribution {
