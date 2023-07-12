@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL
-- Live Site URL
+- [Solution URL](https://github.com/bongende/testimonial_page.git)
+- [Live Site URL](https://testimonialpage.christobongende.repl.co)
 
 ## My process
 
@@ -57,5 +57,5 @@ I learned more about th CSS Grid layout and i refresh more on fexbox amm with re
 ## Author
 
 - Linkedin - [Christopher Duwa](www.linkedin.com/in/christopherduwa)
-- Frontend Mentor - [@ChristoBongende](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ChristoBongende](https://www.frontendmentor.io/profile/bongende)
 - Twitter - [@0505_Christo](https://twitter.com/0505_Christo)
