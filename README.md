@@ -56,6 +56,8 @@ I learned more about th CSS Grid layout and i refresh more on fexbox amm with re
 
 ## Author
 
-- Linkedin - [Christopher Duwa](www.linkedin.com/in/christopherduwa)
+- Linkedin - [Christopher Duwa](https://www.linkedin.com/in/christopherduwa
+
+)
 - Frontend Mentor - [@ChristoBongende](https://www.frontendmentor.io/profile/bongende)
 - Twitter - [@0505_Christo](https://twitter.com/0505_Christo)
